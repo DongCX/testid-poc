@@ -2,12 +2,6 @@ module.exports = {
   extends: [
     "plugin:vue/essential",
     "eslint:recommended",
+    "plugin:@dongcx0319/testid/recommended"
   ],
-  "plugins": [
-    "vue",
-    "@dongcx0319/testid"
-  ],
-  "rules": {
-    "@dongcx0319/testid/data-test-id": "error"
-  }
 }

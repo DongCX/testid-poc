@@ -9,7 +9,7 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "@dongcx0319/eslint-plugin-testid": "^2.1.0",
+    "@dongcx0319/eslint-plugin-testid": "^2.2.0",
     "core-js": "^3.25.3",
     "eslint": "^8.31.0",
     "eslint-config-vue": "^2.0.2",

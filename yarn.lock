@@ -946,10 +946,10 @@
   resolved "https://registry.npmjs.org/@csstools/convert-colors/-/convert-colors-1.4.0.tgz"
   integrity sha512-5a6wqoJV/xEdbRNKVo6I4hO3VjyDq//8q2f9I6PBAvMesJHFauXDorcNCsr9RzvsZnaWi5NYCcfyqP1QeFHFbw==
 
-"@dongcx0319/eslint-plugin-testid@^2.1.0":
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/@dongcx0319/eslint-plugin-testid/-/eslint-plugin-testid-2.1.0.tgz#ce22f9238b4db26ebf135889845c923d0922b980"
-  integrity sha512-uxO7xPpwO1+2UWDRDul1EslbYdij2LPJB9D3i8nQ/CDX2p/aYNDWPZP46HDsRR1IGLm6hr3dnc9l5rTcxxi++A==
+"@dongcx0319/eslint-plugin-testid@^2.2.0":
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/@dongcx0319/eslint-plugin-testid/-/eslint-plugin-testid-2.2.0.tgz#f41910b9558afc157f7fed91e21ee8239d29730a"
+  integrity sha512-j+w7xvB2Kn4sI+0J+7QcorhRuoc2pQShLKAl58IMXF/Fk0M9X2+KdXuqoKCKD4abdyH8DRjtBCeEcXUxYBEVYw==
   dependencies:
     eslint-utils "^3.0.0"
     vue-eslint-parser "^8.0.0"
